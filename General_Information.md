@@ -109,7 +109,7 @@ black
 ```tex
 enter a lot of random trash till the application crash
 ```
-black
+fuzzing
 
 ## Scan
 
