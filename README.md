@@ -16,43 +16,43 @@ Welcome to my Cybertalents Challenges Repository! This repository contains solut
 
 ### Web Security
 
-[Web Security Challenges README](web_security/README.md)
+[Web Security Challenges README]()
 
 This section contains challenges related to web security, covering topics such as XSS, SQL injection, CSRF, etc.
 
 ### General Information
 
-[General Information Challenges README](general_information/README.md)
+[General Information Challenges README](https://github.com/doukkani17moha/Ctfs_CyberTalents/blob/main/General_Information.md)
 
 Explore challenges that test your general knowledge in the field of cybersecurity.
 
 ### Malware Reverse Engineering
 
-[Malware Reverse Engineering Challenges README](malware_reverse_engineering/README.md)
+[Malware Reverse Engineering Challenges README]()
 
 Dive into challenges focused on analyzing and understanding malware through reverse engineering.
 
 ### Cryptography
 
-[Cryptography Challenges README](cryptography/README.md)
+[Cryptography Challenges README]()
 
 Discover challenges involving cryptographic puzzles, encryption, and decryption techniques.
 
 ### Exploitation
 
-[Exploitation Challenges README](exploitation/README.md)
+[Exploitation Challenges README]()
 
 Learn about exploitation techniques in challenges designed to test your skills in finding vulnerabilities and exploiting them.
 
 ### Network Security
 
-[Network Security Challenges README](network_security/README.md)
+[Network Security Challenges README]()
 
 Explore challenges related to network security, protocols, and packet analysis.
 
 ### OSINT (Open Source Intelligence)
 
-[OSINT Challenges README](osint/README.md)
+[OSINT Challenges README]()
 
 Engage in challenges that require gathering information from publicly available sources to solve problems.
 
