@@ -60,4 +60,4 @@ Engage in challenges that require gathering information from publicly available 
 
 Feel free to contribute your own solutions to challenges or suggest improvements! Create a pull request or open an issue.
 
-Happy hacking!
+Created By [Mohamed Doukkani](https://www.linkedin.com/in/mohamed-doukkani/) with ❤️, Happy hacking!
