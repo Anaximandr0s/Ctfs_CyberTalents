@@ -5,7 +5,7 @@ Welcome to my Cybertalents Challenges Repository! This repository contains solut
 ## Table of Contents
 
 - [Web Security](web_security/README.md)
-- [General Information](general_information/README.md)
+- [General Information](https://github.com/doukkani17moha/Ctfs_CyberTalents/blob/main/General_Information.md)
 - [Malware Reverse Engineering](malware_reverse_engineering/README.md)
 - [Cryptography](cryptography/README.md)
 - [Exploitation](exploitation/README.md)
